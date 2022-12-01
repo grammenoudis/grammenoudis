@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Giorgos Grammenoudis</h1>
 <h3 align="center">A passionate fullstack developer!</h3>
 
-<h2> Languages And Tools </h2>
+<h2>🧰 Languages and Tools </h2>
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" />
 <img align="left" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
